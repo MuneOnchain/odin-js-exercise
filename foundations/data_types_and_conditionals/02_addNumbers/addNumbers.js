@@ -5,6 +5,7 @@ function addNumbers() {
   let result;
 
   // checking something
+  // checking again
 
   result = a + b; // <------ EDIT THIS LINE
 
