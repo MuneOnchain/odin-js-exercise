@@ -4,6 +4,8 @@ function addNumbers() {
 
   let result;
 
+  // checking something
+
   result = a + b; // <------ EDIT THIS LINE
 
   return result;
